@@ -32,16 +32,9 @@ The landing page showcases the following products:
 - CSS3 (linked via landing_page.css)
 - [Ionicons](https://ionicons.com/) for social media icons
 
-## Setup
-
-1. Clone this repository
-2. Open the `landing_page.html` file in a web browser
 
 ## Additional Pages
 
 - About Us (`about_us.html`)
 - Contact (`contact.html`)
 
-## Note
-
-Make sure to have an active internet connection when viewing the page to load the Ionicons script and product images properly.
