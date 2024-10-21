@@ -37,12 +37,5 @@ This is a simple, responsive webpage created using TailwindCSS.
 - Utilizes Flexbox for layout structure
 - Implements responsive typography and spacing
 
-## How to Use
 
-1. Clone this repository
-2. Open the HTML file in a web browser
-3. No additional setup required as Tailwind CSS is loaded via CDN
 
-## Note
-
-This README provides an overview of the webpage structure and features. For the actual implementation, refer to the HTML file in this repository.
